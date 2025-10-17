@@ -84,7 +84,7 @@ python bike_sharing_train.py
 
 ---
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA) - explores patterns and trends in the data.
 
 * Distribution, correlations, and target analysis by category.
 * **Findings:**
