@@ -147,7 +147,8 @@ python bike_sharing_train.py
 * **Hyperparameter Tuning:** GridSearchCV (`learning_rate`, `n_estimators`, `colsample_bytree`) → Best: `{learning_rate=0.1, n_estimators=500, colsample_bytree=1}`
   *→ Systematic optimization for balanced bias-variance trade-off.*
 
----
+---RMSE (Root Mean Squared Error)-> o evaluate the average magnitude of the prediction errors. 
+---MAE (Mean Absolute Error):->to understand the average absolute deviation between predicted and actual values.
 
 ## Evaluation Results
 
