@@ -212,7 +212,7 @@ submission_bike_sharing_model.csv
 
 For educational and research purposes only. Follow the dataset’s license terms.
 *→ Always verify usage rights before commercial deployment.*
-
+Jupyter Notebook for end-to-end experiment monitoring and rapid iteration.
 ---
 
 ## Feature Engineering and Model Selection
