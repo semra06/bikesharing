@@ -214,7 +214,7 @@ For educational and research purposes only. Follow the dataset’s license terms
 
 ---
 
-## Discussion: Approach to Feature Engineering and Model Selection
+## Feature Engineering and Model Selection
 
 When starting with a new dataset, the process of building features and choosing models usually includes these steps:
 
