@@ -100,7 +100,7 @@ python bike_sharing_train.py
 
 ---
 
-## Feature Engineering
+## Feature Engineering- new features were created to improve the model.
 
 * **Time Segmentation:** `NEW_time_of_day` (morning/afternoon/evening/night)
   *→ Captures behavioral differences across day parts.*
